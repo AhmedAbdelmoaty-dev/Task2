@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-- **.NET 7 / 8**  
+- **.NET 9**  
 - **C#**  
 - **Entity Framework Core**  
 - **PostgreSQL**  
